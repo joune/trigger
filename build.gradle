@@ -1,0 +1,7 @@
+apply plugin: 'scala'
+
+dependencies {
+	compile 'com.sparkjava:spark-core:1.1.1'
+}
+
+		
